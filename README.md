@@ -44,3 +44,7 @@ Enemies are activated once they see the player (Line of Sight computation) or on
 *Note: The original Doom's WAD file cannot be used. I defined my own map format.*
 
 See [an example](Maps/e1m1.map) and the parser's source code for better understanding.
+
+## Sound credits
+
+[Serious Sam: The First Encounter](http://serioussam.wikia.com/wiki/Serious_Sam:_The_First_Encounter) by Croteam
