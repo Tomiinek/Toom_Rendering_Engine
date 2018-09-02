@@ -30,7 +30,7 @@ The code is based on the [Doom Wiki](http://doomwiki.org) and on the great [vide
 
 ## Gameplay video
 
-[![YOUTUBE_VIDEO](_img/video_thumbnail.png)](https://youtu.be/5rm_J-ofoT0)
+[![YOUTUBE_VIDEO](_img/video_thumbnail.png)](https://youtu.be/56kg2XYc5HM)
 
 ## Compilation
 Developed in **Visual Studio** together with **MSVC**, event not tried to compile using gcc. The application depends on [SFML](https://www.sfml-dev.org/) libraries (handling of sound, user input and makes usage of OpenGL easier). Make sure that there are present `Sounds`, `Fonts` and `Maps` directories with the needed dependencies.
